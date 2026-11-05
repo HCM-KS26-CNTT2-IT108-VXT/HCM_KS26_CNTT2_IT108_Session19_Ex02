@@ -5,7 +5,7 @@
 - Hacker lấy được mật khẩu từ diễn đàn công nghệ bị hack.
 - Vì sử dụng cùng mật khẩu <span>`123456`</span> cho Gmail, Facebook và GitHub nên Hacker thử đăng nhập vào các tài khoản này.
 - Nếu mật khẩu giống nhau, Hacker có thể chiếm quyền truy cập nhiều tài khoản.
-- Đây gọi là Credential Stuffing, tạo ra hiệu ứng domino khiến nhiều tài khoản bị mất cùng lúc.
+- Đây gọi là **Credential Stuffing**, tạo ra hiệu ứng domino khiến nhiều tài khoản bị mất cùng lúc.
 
 ### 2. Tại sao mật khẩu cảm tính dễ bị bẻ khóa?
 
